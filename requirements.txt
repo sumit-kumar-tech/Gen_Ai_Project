@@ -1,0 +1,12 @@
+langchain
+python-env
+ipykernel
+pypdf
+langchain-community
+langchain-text-splitters
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+pandas
+pymupdf
+huggingface_hub
